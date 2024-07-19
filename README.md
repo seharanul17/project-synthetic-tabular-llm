@@ -1,6 +1,6 @@
 # Exploring Prompting Methods for Mitigating Class Imbalance through Synthetic Data Generation with Large Language Models
 
-[Paper](https://arxiv.org/abs/2404.12404) [Project page]()
+[\[Paper\]](https://arxiv.org/abs/2404.12404) [\[Project page\]]()
 
 # Bibtex
 ```
