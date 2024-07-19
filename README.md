@@ -2,7 +2,9 @@
 
 [<ins>__[Paper]__</ins>](https://arxiv.org/abs/2404.12404) &nbsp; 
 &nbsp; 
-[<ins>__[Project page]__</ins>](https://seharanul17.github.io/project-synthetic-tabular-llm/ )
+[<ins>__[Project page]__</ins>](https://seharanul17.github.io/project-synthetic-tabular-llm/ )&nbsp; 
+&nbsp; 
+[<ins>__[Code]__</ins>](https://github.com/seharanul17/synthetic-tabular-LLM)
 
 
 # Bibtex
