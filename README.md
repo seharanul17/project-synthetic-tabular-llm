@@ -1,4 +1,4 @@
-# Exploring Prompting Methods for Mitigating Class Imbalance through Synthetic Data Generation with Large Language Models
+# EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models
 
 [<ins>__[Paper]__</ins>](https://arxiv.org/abs/2404.12404) &nbsp; 
 &nbsp; 
@@ -21,7 +21,7 @@
 ```
 ```
 @article{kim2024group,
-  title={Group-wise Prompting for Synthetic Tabular Data Generation using Large Language Models},
+  title={EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models},
   author={Kim, Jinhee and Kim, Taesung and Choo, Jaegul},
   journal={arXiv preprint arXiv:2404.12404},
   year={2024}
