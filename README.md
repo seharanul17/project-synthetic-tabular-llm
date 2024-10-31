@@ -10,20 +10,12 @@
 # Bibtex
 ```
 @misc{kim2024exploringpromptingmethodsmitigating,
-      title={Exploring Prompting Methods for Mitigating Class Imbalance through Synthetic Data Generation with Large Language Models}, 
+      title={EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models}, 
       author={Jinhee Kim and Taesung Kim and Jaegul Choo},
       year={2024},
       eprint={2404.12404},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2404.12404}, 
-}
-```
-```
-@article{kim2024group,
-  title={EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models},
-  author={Kim, Jinhee and Kim, Taesung and Choo, Jaegul},
-  journal={arXiv preprint arXiv:2404.12404},
-  year={2024}
 }
 ```
