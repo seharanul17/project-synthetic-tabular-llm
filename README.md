@@ -9,13 +9,12 @@
 
 # Bibtex
 ```
-@misc{kim2024exploringpromptingmethodsmitigating,
-      title={EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models}, 
-      author={Jinhee Kim and Taesung Kim and Jaegul Choo},
-      year={2024},
-      eprint={2404.12404},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2404.12404}, 
+@inproceedings{
+    kim2024epic,
+    title={EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models},
+    author={Jinhee Kim and Taesung Kim and Jaegul Choo},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+    year={2024},
+    url={https://openreview.net/forum?id=d5cKDHCrFJ}
 }
 ```
